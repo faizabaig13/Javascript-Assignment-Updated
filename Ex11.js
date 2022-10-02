@@ -1,0 +1,1 @@
+var names = ["Faiza", "wajeeha", "umair", "abdullah"];

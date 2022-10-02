@@ -1,0 +1,3 @@
+let fav_num = 19
+// My Favourite Number...
+console.log("My Birthday Comes on " + fav_num + " My favourite Number")
